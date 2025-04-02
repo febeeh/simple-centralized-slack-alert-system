@@ -96,4 +96,4 @@ This script connects to the WebSocket server, sends a test alert, and then disco
 ![Error](https://github.com/febeeh/simple-centralized-slack-alert-system/blob/main/images/error.jpg)
 
 ---
-## Done
+Done
