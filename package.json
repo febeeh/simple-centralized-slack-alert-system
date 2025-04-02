@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@slack/webhook": "^7.0.5",
+    "dotenv": "^16.4.7",
+    "express": "^5.1.0",
+    "ws": "^8.18.1"
+  }
+}
