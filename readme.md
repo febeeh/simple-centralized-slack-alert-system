@@ -14,7 +14,6 @@ A lightweight, centralized alerting system that uses WebSockets to send alerts t
 - Clients send alerts via WebSocket.
 - The server processes the alert and forwards it to Slack.
 - Alerts are color-coded based on type.
-- WebSocket connection is closed after sending the aler
 
 ## Installation 🛠️
 
