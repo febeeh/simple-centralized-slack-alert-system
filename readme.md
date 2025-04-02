@@ -87,4 +87,13 @@ This script connects to the WebSocket server, sends a test alert, and then disco
 
 ---
 
+## Images
+### Success
+![Success](https://github.com/febeeh/simple-centralized-slack-alert-system/blob/main/images/success.jpg)
+### Warning
+![Warning](https://github.com/febeeh/simple-centralized-slack-alert-system/blob/main/images/warning.jpg)
+### Error
+![Error](https://github.com/febeeh/simple-centralized-slack-alert-system/blob/main/images/error.jpg)
+
+---
 Done
